@@ -11,11 +11,11 @@ A simple Weather App in React using hooks and Material-UI with API integration. 
     
     React with hooks
     Material-UI
-    [Weather API Integration](https://openweathermap.org/)
     JavaScript
     HTML
     CSS
     Visual Studio Code
+   [Weather API Integration](https://openweathermap.org/)
 
 # Author:
   * [Sukhveer Sohi](https://github.com/IamSohi)
